@@ -1,4 +1,5 @@
 ## Olá! Eu sou a Izabela.
+<em>Sou graduanda em Gestão da Tecnologia da Informação. Atualmente trabalho como Analista de Suporte técnico, buscando conhecimento na área de programação.</em> 👱🏻‍♀️💻
 <div align="center">
   <a href="https://github.com/izabalizardo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izabalizardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
