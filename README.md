@@ -8,7 +8,7 @@ Hoje sigo focada em evoluir na área de qualidade de software, aprofundando meus
 
 ---
 
-### 🧪 Ferramentas e tecnologias
+### Ferramentas e tecnologias
 
 <div style="display: inline_block"><br>
 
@@ -24,7 +24,7 @@ Hoje sigo focada em evoluir na área de qualidade de software, aprofundando meus
 
 ---
 
-### 🔗 Contato
+### Contato
 
 <a href="https://www.linkedin.com/in/izabela-balizardo-66652b19b/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
