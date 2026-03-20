@@ -12,7 +12,7 @@ Hoje sigo focada em evoluir na área de qualidade de software, aprofundando meus
 
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Cypress" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg">
+<img align="center" alt="Cypress" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">
 
 <img align="center" alt="Postman" height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
 
@@ -20,7 +20,7 @@ Hoje sigo focada em evoluir na área de qualidade de software, aprofundando meus
 
 <img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-<img align="center" alt="Bug" height="30" src="https://cdn-icons-png.flaticon.com/512/565/565547.png">
+<img align="center" alt="Bug" height="30" src="https://img.icons8.com/ios-filled/50/ffffff/bug.png">
 
 </div>
 
