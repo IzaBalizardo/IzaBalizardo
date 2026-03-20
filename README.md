@@ -1,4 +1,4 @@
-## Olá! Eu sou a Izabela. 👋 <img align="center" alt="Bug" height="30" width="30" src="https://img.icons8.com/ios-filled/50/ffffff/bug.png">
+## Olá! Eu sou a Izabela. 👋 <img align="center" alt="Bug" height="20" width="20" src="https://img.icons8.com/ios-filled/50/ffffff/bug.png">
 
 Atuo como Analista de QA, com experiência em testes manuais, automação com Cypress e testes de API REST.
 
