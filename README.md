@@ -12,24 +12,22 @@ Hoje sigo focada em evoluir na área de qualidade de software, aprofundando meus
 
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" style="filter: invert(1);">
+<img align="center" alt="Cypress" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg">
 
-<img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+<img align="center" alt="Postman" height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
 
-<img align="center" alt="API" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png">
+<img align="center" alt="API" height="30" src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png">
 
-<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-<img align="center" alt="Bug" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/565/565547.png">
+<img align="center" alt="Bug" height="30" src="https://cdn-icons-png.flaticon.com/512/565/565547.png">
 
 </div>
+
+---
 
 ### 🔗 Contato
 
 <a href="https://www.linkedin.com/in/izabela-balizardo-66652b19b/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
-
-  
-
-
