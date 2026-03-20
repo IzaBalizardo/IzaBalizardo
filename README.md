@@ -12,19 +12,17 @@ Hoje sigo focada em evoluir na área de qualidade de software, aprofundando meus
 
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg">
+<img align="center" alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" style="filter: invert(1);">
 
 <img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
 
-<img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="API" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/2165/2165004.png">
 
 <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 <img align="center" alt="Bug" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/565/565547.png">
 
 </div>
-
----
 
 ### 🔗 Contato
 
