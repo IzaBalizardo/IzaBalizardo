@@ -12,7 +12,7 @@ Hoje sigo focada em evoluir na área de qualidade de software, aprofundando meus
 
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Cypress" height="404" src="https://api.iconify.design/simple-icons/cypress.svg?color=white">
+<img align="center" alt="Cypress" height="30" width="40" src="https://api.iconify.design/simple-icons/cypress.svg?color=white">
 
 <img align="center" alt="Postman" height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
 
