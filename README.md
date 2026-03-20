@@ -1,4 +1,4 @@
-## Olá! Eu sou a Izabela. 👋
+## Olá! Eu sou a Izabela. 👋 <img align="center" alt="Bug" height="30" src="https://img.icons8.com/ios-filled/50/ffffff/bug.png">
 
 Atuo como Analista de QA, com experiência em testes manuais, automação com Cypress e testes de API REST.
 
@@ -18,7 +18,6 @@ Hoje sigo focada em evoluir na área de qualidade de software, aprofundando meus
 
 <img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-<img align="center" alt="Bug" height="30" src="https://img.icons8.com/ios-filled/50/ffffff/bug.png">
 
 </div>
 
