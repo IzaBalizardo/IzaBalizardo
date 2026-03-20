@@ -1,32 +1,36 @@
-## Olá! Eu sou a Izabela.
-<em>Sou graduanda em Gestão da Tecnologia da Informação. Atualmente trabalho como Analista de Suporte técnico, buscando conhecimento na área de programação.</em> 👱🏻‍♀️💻
-<div align="center">
-  <a href="https://github.com/izabalizardo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izabalizardo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-</div>
+## Olá! Eu sou a Izabela. 👋
+
+Atuo como Analista de QA, com experiência em testes manuais, automação com Cypress e testes de API REST.
+
+Sou formada em Gestão da Tecnologia da Informação e pós-graduada em Engenharia de Software com ênfase em Qualidade e Teste de Software.
+
+Hoje sigo focada em evoluir na área de qualidade de software, aprofundando meus conhecimentos em automação, testes e CI/CD.
+
+---
+
+### 🧪 Ferramentas e tecnologias
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  
+
+<img align="center" alt="Cypress" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg">
+
+<img align="center" alt="Postman" height="30" width="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+
+<img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
+<img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+<img align="center" alt="Bug" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/565/565547.png">
+
 </div>
-  
-  ##
- 
-<div>
-  
- 
- 	
- <a href="https://discord.gg/izabela#6245" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:izabalizardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/izabela-balizardo-66652b19b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/izabalizardo/izabalizardo/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+---
+
+### 🔗 Contato
+
+<a href="https://www.linkedin.com/in/izabela-balizardo-66652b19b/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
 
   
 
